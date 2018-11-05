@@ -21,19 +21,4 @@ Write a program whick takes as input:
 As output, the program should list all the unique configurations to the console for which all of the pieces can be
 placed on the board without threatening each other.
 
-Examples:
--Input: 3x3 board containing 2 Kings and 1 Rook
-K#K K## ##K #R#
-### ##R R## ###
-#R# K## ##K K#K
-
--Input: 4x4 board containing 2 Rooks and 4 Knights
-#N#N #N#N R### ##R#
-##R# R### #N#N #N#N
-#N#N #N#N ##R# R###
-R### ##R# #N#N #N#N
-
-#R## ###R N#N# N#N#
-N#N# N#N# ###R #R##
-###R #R## N#N# N#N#
-N#N# N#N# #R## ###R
+![alt text](https://raw.githubusercontent.com/mieshki/Chess-combinations-scala-lang/master/examples.png "")

@@ -1,7 +1,7 @@
 # Chess-combinations-scala-lang
 scala code in src/main/scala
 
-###Chess Challenge 
+Chess Challenge 
 
 Below you willfindthedescriptionofthe problem.UsingScalalanguage(no speciallibraries areneeded but 
 you can use external ones if you feel such need), please provide an answer for the question at the end.
